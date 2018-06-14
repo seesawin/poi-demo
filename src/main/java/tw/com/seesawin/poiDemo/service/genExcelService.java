@@ -41,7 +41,7 @@ public class genExcelService {
 			cell.setCellValue("222");
 			
 			cell = detailRow.createCell(2);
-			cell.setCellValue("333");
+			cell.setCellValue("33344445555");
 		}
 	}
 
